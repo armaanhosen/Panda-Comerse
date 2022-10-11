@@ -1,4 +1,54 @@
-.navi{
-    position: relative;
-    margin: 0 500px;
+.banner-bg{
+    background-color: #feeae9;
+    border-radius: 5px;
+}
+.all-button{
+    border: none;
+    background-color: rgb(247, 52, 149);
+    padding: 3px 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: medium;
+    width: 120px;
+    height: 35px;
+
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.cat1{
+    background-image: linear-gradient(90deg, rgb(202, 202, 2), rgb(255, 255, 79));
+}
+.cat2{
+    background-image: linear-gradient(90deg,rgb(192, 2, 144),rgb(252, 67, 252));
+}
+.cat3{
+    background-image: linear-gradient(90deg,rgb(67, 67, 226),rgb(0, 0, 218));
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catfont{
+    color: white;
+}
+.categs img{
+    width: 100px;
+}
+.al-button{
+    border: none;
+    background-color: rgb(247, 52, 149);
+    padding: 3px 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: medium;
+    width: 120px;
+    height: 35px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 12px lightgray;
 }
